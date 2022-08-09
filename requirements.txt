@@ -1,0 +1,4 @@
+Modules to import:
+pandas
+numpy
+matplotlib.pyplot
